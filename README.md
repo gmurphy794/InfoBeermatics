@@ -1,2 +1,0 @@
-# InfoBeermatics
-Beer Analytics Project
