@@ -1,101 +1,101 @@
 ,brewery_type,city,country,id,latitude,longitude,name,phone,postal_code,state,street,updated_at,website_url
-0,planning,Denver,United States,1620,,,Westbound and Down,7205023121,80204,Colorado,,2018-08-11T21:36:44.380Z,
-1,brewpub,Oak Bluffs,United States,3329,41.4548832424099,-70.5579095857058,Offshore Ale Co,5086932626,02557,Massachusetts,30 Kennebec Ave,2018-08-24T00:41:37.670Z,http://www.offshoreale.com
-2,micro,Chelsea,United States,3318,42.3915659,-71.0445104,Mystic Brewery,,02150-3804,Massachusetts,174 Williams St,2018-08-24T00:41:33.582Z,
-3,planning,Quinter,United States,2829,,,Center Pivot,7857548344,67752,Kansas,,2018-08-11T21:37:25.625Z,
-4,brewpub,Ann Arbor,United States,3395,42.2804102857143,-83.7482247142857,Arbor Brewing Co,7342131393,48104-1905,Michigan,114 E Washington St,2018-08-24T00:42:03.795Z,http://www.arborbrewing.com
-5,planning,Malta,United States,4105,,,BLUE RIDGE BREWING,4066542855,59538,Montana,,2018-08-11T21:38:10.711Z,
-6,micro,Everett,United States,3234,42.405551,-71.0663396,Bone Up Brewing Co.,7816919092,02149-1932,Massachusetts,38 Norman St,2018-08-24T00:41:06.198Z,http://www.boneup.beer
-7,brewpub,Lyons,United States,1479,40.2245133216038,-105.267693405737,Oskar Blues Brewery - Lyons,3038236685,80540,Colorado,303 Main St,2018-08-24T00:24:04.297Z,http://www.oskarblues.com
-8,micro,Bloomington,United States,2586,,,Bloomington Brewing Co - Production Facility,8126992005,47404,Indiana,2234 West Industrial Drive,2018-08-11T21:37:17.906Z,http://www.bbcbloomington.com
-9,brewpub,Flemington,United States,4443,40.505374068364,-74.8626657293505,Lone Eagle Brewing,9082372255,08822-1581,New Jersey,44 Stangl Rd,2018-08-24T15:36:57.137Z,http://loneeaglebrewing.com
-10,planning,Eureka Springs,United States,241,36.4000796,-93.7392419,Gotahold Brewing Company,8023569163,72632,Arkansas,,2018-08-23T23:23:19.487Z,
-11,micro,Hampden,United States,3348,42.0430361118982,-72.5833168788771,Scantic River Brewery,4132049163,01036-9624,Massachusetts,25 Mill Rd,2018-08-24T00:41:45.094Z,http://www.scanticriverbrewery.com
-12,micro,Sacramento,United States,849,38.5607772,-121.4899398,New Helvetia Brewing Company,9164699889,95818-2320,California,1730 Broadway,2018-08-24T00:00:01.445Z,http://www.newhelvetiabrew.com
-13,micro,Wichita,United States,2830,37.6846165,-97.3184245,Central Standard Brewing,3162608515,67211-1815,Kansas,156 S Greenwood St,2018-08-24T00:38:23.213Z,http://www.drinkcsb.com
-14,micro,Shreveport,United States,2949,32.4890068606836,-93.7554566931889,Great Raft Brewing,3187348101,71103-3705,Louisiana,1251 Dalzell St,2018-08-24T00:39:16.416Z,http://www.greatraftbrewing.com
-15,micro,Brookston,United States,2611,,,Crasian Brewing Co,7655638339,47923-8137,Indiana,207 S Railroad St Ste B,2018-08-11T21:37:18.625Z,http://www.crasianbrewing.com
-16,contract,Cleveland,United States,5416,,,Earlybird Brewing Company,,44115-1259,Ohio,737 Bolivar Rd Ste 4100,2018-08-11T21:38:58.131Z,http://www.earlybirdbrewing.com
-17,planning,Lockland,United States,5373,,,Brewery in Planning - Lockland,,45215-4548,Ohio,,2018-08-11T21:38:56.750Z,
-18,micro,Portland,United States,5836,45.5409227142857,-122.673082571429,LABrewatory,9712718151,97227-1728,Oregon,670 N Russell St,2018-08-24T16:02:28.515Z,http://www.thelabrewatory.com
-19,planning,Arvada,United States,1335,,,Donavon Brewing Company,3039975920,80005-3644,Colorado,,2018-08-11T21:36:35.059Z,http://www.donavonbrewing.com
-20,micro,Decatur,United States,2367,39.8466258571429,-88.9752381428572,Door 4 Brewing Co,2173302008,62522-2008,Illinois,1214 W Cerro Gordo St,2018-08-24T00:30:48.492Z,http://www.door4brewing.com
-21,micro,Escondido,United States,716,,,Jacked Up Brewery,7603000633,92025-2562,California,800 W Grand Ave Ste B Ste 201,2018-08-11T21:36:08.787Z,http://jackedupbrewery.com
-22,micro,Homewood,United States,2494,41.5647232,-87.6330234,"Rabid Brewing, LLC",7089603193,60430,Illinois,17559 Bretz Dr,2018-08-24T00:31:54.358Z,http://www.rabidbrewing.com
-23,micro,Allendale,United States,3739,42.9720778152174,-85.9354153586956,Trail Point Brewing Co.,6168952739,49401-9101,Michigan,6035 Lake Michigan Dr,2018-08-24T00:44:30.965Z,http://www.trailpointbrewing.com
-24,brewpub,Downers Grove,United States,2373,41.7925884,-88.0105120520319,Emmett's Brewing Co - Downers Grove,6304348500,60515-4688,Illinois,5200 Main St,2018-08-24T00:30:52.104Z,http://www.emmettsbrewingco.com
-25,micro,Louisville,United States,2903,38.2598078,-85.6064539,Holsopple Brewing,5027081902,40222-4793,Kentucky,8023 Catherine Ln,2018-08-24T00:38:56.546Z,http://www.holsopplebrewing.com
-26,brewpub,Westborough,United States,3334,42.2899655860842,-71.5859197866303,Owen OLearys Restaurant and Brewery,5083669262,01581-3916,Massachusetts,17 Connector Rd,2018-08-24T00:41:39.893Z,http://www.owenolearys.com
-27,planning,Littleton,United States,1266,,,Brewery In Planning - Highlands Ranch,,80126-5547,Colorado,,2018-08-11T21:36:32.941Z,
-28,micro,Santa Monica,United States,989,,,Santa Monica Brew Works,3108287629,90404-3414,California,1920 Colorado Ave Ste C,2018-08-11T21:36:19.668Z,http://www.santamonicabrewworks.com
-29,micro,Clive,United States,2734,41.599992,-93.7228408,515 Brewing Co,5156614615,50325-1271,Iowa,7700 University Ave,2018-08-24T00:33:43.585Z,http://www.515brewing.com
-30,regional,Manhattan,United States,2855,39.1428736,-96.6792762,Tallgrass Brewing Co,7855371131,66503-9815,Kansas,5960 Dry Hop Cir,2018-08-24T00:38:34.213Z,http://www.tallgrassbeer.com
-31,brewpub,Santa Fe,United States,4513,,,Duel Brewing Company,5054745301,87507-7319,New Mexico,1228 Parkway Dr Ste D,2018-08-11T21:38:26.697Z,http://www.duelbrewing.com
-32,micro,Port Jefferson Station,United States,4858,,,Po'Boy Brewing,6318281131,11776-1145,New York,200 Wilson St Unit E3,2018-08-11T21:38:39.146Z,http://www.poboybrewery.com
-33,planning,Mashpee,United States,3244,,,Brewery in Planning - Mashpee,5082749278,02649-2248,Massachusetts,,2018-08-11T21:37:39.314Z,http://www.karmawheelbrewing.com
-34,micro,Moscow,United States,2276,,,Moscow Brewing Company,2085964058,83843-9701,Idaho,630 N Almon St Ste 130,2018-08-11T21:37:06.262Z,http://www.facebook.com/moscowbrewingcompany
-35,brewpub,Tallahassee,United States,1918,,,Fools Fire Brewing Company At Fermentation Lounge,8507274033,32301-2201,Florida,415 Saint Francis Street Unit 112,2018-08-11T21:36:54.383Z,http://www.foolsfire.com
-36,micro,Woodbury,United States,4415,39.8493472478197,-75.1422203358405,Eight & Sand Beer Co,8565371339,08096-,New Jersey,1003 N Evergreen Ave,2018-08-24T15:36:45.871Z,http://www.eightandsandbeer.com
-37,regional,Kailua Kona,United States,2233,19.643069,-155.997661,Kona Brewing Co,8083341133,96740-1617,Hawaii,74-5612 Pawai Pl,2018-08-24T00:29:46.663Z,http://www.konabrewingco.com
-38,brewpub,Morrisville,United States,4677,42.8990341333333,-75.6487902,Copper Turret Restaurant and Brewhouse,3158257910,13408-,New York,17 W Main St,2018-08-24T15:38:35.586Z,http://www.copperturret.com
-39,micro,Guntersville,United States,30,34.3387368412698,-86.3121603492064,Main Channel Brewing Company,2569605070,35976-2113,Alabama,2090 Gunter Ave,2018-08-23T23:20:20.700Z,http://www.mainchannelbeer.com
-40,micro,Lake Oswego,United States,5802,,,FlyBoy Brewing,5039081281,97035-3455,Oregon,15630 Boones Ferry Rd Ste 1A,2018-08-11T21:39:13.519Z,http://www.flyboybeer.com
-41,brewpub,Cloverdale,United States,489,38.8053232210103,-123.016572852146,Cloverdale Ale Company's Ruth McGowan's Brewpub,7078949610,95425-3701,California,131 E 1st St,2018-08-23T23:26:51.276Z,http://www.ruthmcgowansbrewpub.com
-42,brewpub,San Diego,United States,404,32.6982174013939,-117.139754116945,Border X Logan,8584050528,92113-2203,California,2181 Logan Ave,2018-08-23T23:25:49.269Z,http://www.borderxbrewing.com
-43,micro,Elkin,United States,5249,36.2833978851372,-80.8524565963092,Skull Camp Brewing,3363525595,28621-2106,North Carolina,1980 N Bridge St,2018-08-24T15:42:40.341Z,http://www.skullcampbrewing.com
-44,brewpub,Grand Rapids,United States,3456,42.9596159090909,-85.6468380909091,Brewery Vivant,6167191604,49506-1403,Michigan,925 Cherry St SE,2018-08-24T00:42:28.729Z,http://www.breweryvivant.com
-45,contract,Canton,United States,5577,,,Royal Docks Brewing Company,3303539103,44718-1523,Ohio,7162 Fulton Dr NW,2018-08-11T21:39:04.007Z,http://www.docks.beer
-46,micro,Harrison,United States,3061,,,Pennesseewassee Brewing,2077439808,04040-3829,Maine,458 Plains Rd,2018-08-11T21:37:33.694Z,http://www.pennybrew.com
-47,micro,Tampa,United States,1800,28.005127,-82.459381,"Angry Chair Brewing, LLC.",8138921651,33604-6007,Florida,6401 N Florida Ave,2018-08-24T00:26:28.503Z,http://www.angrychairbrewing.com
-48,micro,Chula Vista,United States,1116,32.642827,-117.080107,Thr3e Punks Ale,6198579092,91910-2721,California,259 Third Ave,2018-08-24T00:04:04.871Z,http://3punkales.com/red/index.html
-49,micro,Burbank,United States,778,34.2060527272727,-118.346620636364,Lincoln Beer Company,8186874206,91504-2013,California,3083 N Lima St,2018-08-23T23:59:00.811Z,http://www.lincolnbeercompany.com
-50,micro,Tulsa,United States,5677,36.134457,-95.9646299,"Marshall Brewing Co, LLC",9182928781,74104-3214,Oklahoma,618 S Wheeling Ave,2018-08-24T15:45:36.222Z,http://www.marshallbrewing.com
-51,planning,Somers Point,United States,4465,,,Somers Point Brewing Company,,08244-1822,New Jersey,,2018-08-11T21:38:25.186Z,
-52,micro,Owings,United States,3185,,,Scorpion Brewing,7033072400,20736,Maryland,"929 Skinners Turn Rd, Suite 100",2018-08-11T21:37:37.513Z,http://www.scorpionbrewing.com
-53,brewpub,Louisville,United States,2881,38.25620645,-85.7550889765356,Bluegrass Brewing Co - Brewpub,5028997070,40202-2945,Kentucky,300 W Main St,2018-08-24T00:38:44.908Z,http://www.bbcbrew.com
-54,micro,McMinnville,United States,5707,45.2108191743635,-123.191780632618,Allegory Brewing,9713731253,97128-4502,Oregon,777 NE 4th St,2018-08-24T15:45:48.550Z,http://www.allegorybrewing.com
-55,micro,Troupsburg,United States,4963,42.0912103379534,-77.5526894569569,TripEnd Brewing,6073467472,14885-9613,New York,3072 Prutsman Rd,2018-08-24T15:40:40.629Z,http://www.tripendbrewing.com
-56,brewpub,Oregon City,United States,5898,45.3617756,-122.600148250406,Oregon City Brewing Company,5039081948,97045-1650,Oregon,1401 Washington St,2018-08-24T16:03:54.244Z,http://www.ocbeerco.com
-57,micro,West Sacramento,United States,375,38.5660851,-121.5433734,Bike Dog Brewing Co,,95691-3471,California,2534 Industrial Blvd Ste 110,2018-08-23T23:25:23.942Z,
-58,regional,San Diego,United States,641,32.9167796,-117.113975,Green Flash Brewing Co,8586220085,92121-4100,California,6550 Mira Mesa Blvd,2018-08-23T23:29:00.296Z,http://www.greenflashbrew.com
-59,micro,Cedar Crest,United States,4487,,,Ale Republic,5052812828,87008,New Mexico,28 Arroyo Seco,2018-08-11T21:38:25.889Z,http://www.alerepublic.com
-60,brewpub,Youngstown,United States,5528,41.1022792972554,-80.6457616215263,Noble Creature Cask House,2347191827,44503-1619,Ohio,126 E Rayen Ave,2018-08-24T15:44:36.494Z,http://www.noblecreaturebeer.com
-61,planning,Auburn ,United States,2569,,,Auburn Brewing Company,2609081074,46706,Indiana,,2018-08-11T21:37:17.381Z,
-62,micro,Henderson,United States,4262,36.0414687495589,-115.029408638421,"Joseph James Brewing Co, Inc",7024542739,89014-6713,Nevada,155 N Gibson Rd,2018-08-24T15:35:38.652Z,http://www.jjbrewco.com
-63,micro,Muncie,United States,2706,40.1928128571429,-85.3814878571429,The Guardian Brewing Company,7652738918,47305,Indiana,514 E Jackson Street,2018-08-24T00:33:28.613Z,http://www.theguardianbrewingco.com
-64,proprietor,Fresno,United States,1077,36.7913344,-119.6761563,Tactical OPS Brewing Inc.,5593138759,93727,California,2985 N Burl 102,2018-08-24T00:03:30.371Z,http://www.tacticalopsbrewing.com
-65,brewpub,Wolfeboro,United States,4353,43.5857241507431,-71.2150330458599,The Lone Wolfe Brewing Co.,6035151273,03894-4485,New Hampshire,36 Mill St,2018-08-24T15:36:21.749Z,http://www.thelonewolfe.com
-66,regional,Portland,United States,5751,45.53133335,-122.684860125652,BridgePort Brewing Co,5032417179,97209-2808,Oregon,1318 NW Northrup St,2018-08-24T15:46:05.715Z,http://www.bridgeportbrew.com
-67,regional,Lakewood,United States,4924,,,Southern Tier Brewing Co,7167635479,14750-9779,New York,2072 Stoneman Cir,2018-08-11T21:38:41.726Z,http://www.southerntierbrewing.com
-68,regional,Portland,United States,5979,45.5410952857143,-122.676298285714,Widmer Brothers Brewing,5032812437,97227-1733,Oregon,929 N Russell St,2018-08-24T16:05:44.516Z,
-69,planning,Burlington,United States,2828,,,Brewery in Planning - Burlington,7856332062,66839-9200,Kansas,,2018-08-11T21:37:25.593Z,
-70,regional,Astoria,United States,5803,46.1883837,-123.8274681,Fort George Brewery,5033257468,97103-3819,Oregon,1483 Duane St,2018-08-24T16:01:41.124Z,http://www.fortgeorgebrewery.com
-71,brewpub,Bolivar,United States,5489,,,Lockport Brewery,3308746037,44612-8664,Ohio,10891 OH-212,2018-08-11T21:39:00.495Z,http://www.lockportbeer.com
-72,micro,Garden City,United States,2244,,,Barbarian Brewing,2083872739,83714-1457,Idaho,5270 W Chinden Blvd,2018-08-11T21:37:05.133Z,http://www.barbarianbrewing.com
-73,planning,Queensbury,United States,4919,,,SlickFin Brewing Company LLC,,12804-9786,New York,,2018-08-11T21:38:41.546Z,
-74,planning,Lincoln,United States,4226,,,Red Iron Brewing Company,4028126242,68502,Nebraska,,2018-08-11T21:38:16.099Z,http://www.RedIronBrewing.com
-75,brewpub,Sisters,United States,5960,44.285254,-121.534944,Three Creeks Brewing Co,5415491963,97759-9514,Oregon,721 Desperado Ct,2018-08-24T16:05:22.106Z,http://www.threecreeksbrewing.com
-76,regional,Detroit,United States,3522,42.34299565,-83.0605729011145,Founders Brewing Co,,48201-2640,Michigan,456 Charlotte St,2018-08-24T00:42:57.111Z,
-77,micro,Fresno,United States,909,,,Pine and Palm Brewing,,93711-6079,California,352 W Bedford Ave Ste 102,2018-08-11T21:36:16.223Z,http://www.pineandpalmbrewing.com
-78,micro,Wilmington,United States,5310,34.2213165,-77.8868023066094,Wilmington Brewing Company,9103923315,28403-8426,North Carolina,824 S Kerr Ave,2018-08-24T15:43:07.745Z,http://www.wilmingtonbeer.com
-79,brewpub,Boulder,United States,1357,40.0149794,-105.2454818,FATE Brewing Company,,80301-2610,Colorado,1600 38th St Ste 100,2018-08-24T00:23:01.968Z,
-80,contract,San Jose,United States,824,37.3361905,-121.8905833,Moksha Beer,4157295796,95154-0279,California,,2018-08-23T23:59:40.005Z,http://www.mokshabeer.com
-81,brewpub,Eureka,United States,790,,,Lost Coast Brew House,7074454484,95503-2401,California,1600 Sunset Dr,2018-08-11T21:36:12.261Z,http://www.lostcoast.com
-82,micro,Braintree,United States,3380,,,Widowmaker Brewing,7812549856,02184-2408,Massachusetts,220 Wood Rd,2018-08-11T21:37:44.449Z,http://www.widowmakerbrew.wordpress.com
-83,brewpub,Glendale,United States,128,,,Dubina Brewing Co.,6234127770,85308-3655,Arizona,17035 N 67th Ave Ste 6,2018-08-11T21:35:47.442Z,http://www.dubinabrewing.com
-84,micro,Whately,United States,3291,42.4460651094895,-72.6064122239763,Hitchcock Brewing Company,4136952400,01093,Massachusetts,129 Christian Ln,2018-08-24T00:41:23.978Z,http://www.hitchcockbrewing.com
-85,large,Oakland Park,United States,1921,,,Funky Buddha Brewery,9544400046,33334-4504,Florida,1201 NE 38th St Ste A1 Bay A1,2018-08-11T21:36:54.482Z,http://www.thefunkybuddha.com
-86,planning,Middle River,United States,3162,,,Mastiff Brewery,3023127011,21220-2818,Maryland,,2018-08-11T21:37:36.826Z,
-87,planning,Thousand Oaks,United States,1087,34.17142715,-118.910587729744,Tarantula Hill Brewing Company,6199951731,91360,California,,2018-08-24T00:03:38.978Z,
-88,brewpub,Royal Palm Beach,United States,2040,,,Royal Palm Brewing Company,4079600128,33411-3516,Florida,543 N State Road 7 Ste 103,2018-08-11T21:36:58.314Z,http://www.facebook.com/royalpalmbrewingcompany/
-89,micro,Corona,United States,1060,33.8131807,-117.5046237,Stone Church Brewing,3105676582,92883-7388,California,2785 Cabot Dr Ste 160,2018-08-24T00:03:15.295Z,http://www.stonechurchbrewing.com
-90,micro,Coraopolis,United States,5991,40.5098495749574,-80.1502035633831,180 and Tapped,4127375273,15108,Pennsylvania,2010 A State Ave,2018-08-24T16:05:59.261Z,http://www.180andtapped.com
-91,micro,Victor,United States,4933,,,Stumblin' Monkey Brewing Co,5853988189,14564-1420,New York,61 School St Ste G,2018-08-11T21:38:42.037Z,http://www.stumblinmonkeybeer.com
-92,micro,Madison,United States,35,34.6728014,-86.7740173304273,Rocket Republic Brewing Company,2563254677,35758-8991,Alabama,289 Production Ave,2018-08-23T23:20:24.482Z,http://www.rocketrepublicbrewing.com
-93,brewpub,Port Orange,United States,2084,,,Tomoka Brewing Company,3862564979,32129-3001,Florida,4647 Clyde Morris Blvd Unit 504,2018-08-11T21:36:59.588Z,http://www.tomokabrewingco.com
-94,planning,Evans,United States,2153,,,Ironwood Creek,,30809-8239,Georgia,,2018-08-11T21:37:02.214Z,
-95,micro,Decorah,United States,2814,43.2727293,-91.7250841,Toppling Goliath Brewing Co,5633826198,52101,Iowa,1600 Prosperity Rd,2018-08-24T00:38:15.990Z,http://www.tgbrews.com
-96,micro,Palm Harbor,United States,2062,,,Stilt House Brewery,8138911693,34683,Florida,625 US 19 Alt,2018-08-11T21:36:58.940Z,http://www.stilthousebrewery.com
-97,brewpub,Dalton,United States,3351,42.4745867,-73.1730985,Shire Breu Hous,4138428313,01226,Massachusetts,63 Flansburg Ave,2018-08-24T00:41:46.010Z,http://www.shire.beer
-98,planning,Terrebonne,United States,5814,,,Good Earth Brewing,5598609998,97760-9709,Oregon,,2018-08-11T21:39:13.973Z,http://www.goodearthbrewing.com
-99,contract,Chatsworth,United States,638,34.2464328163265,-118.593284510204,Great Beer Co,8187182739,91311-4309,California,21119 Superior St,2018-08-23T23:28:58.028Z,http://www.greatbeerco.com
+0,planning,Boston,United States,3323,,,Night Shift Brewing,,02114,Massachusetts,,2018-08-11T21:37:42.634Z,
+1,micro,Peoria,United States,182,33.6687744976834,-112.238054093359,Richter Aleworks,6029086553,85382-7434,Arizona,8279 W Lake Pleasant Pkwy Ste 110,2018-08-23T23:22:29.385Z,http://www.richteraleworks.com
+2,brewpub,Portland,United States,5699,45.4762536,-122.648753114062,13 Virtues Brewing Co,5032393831,97202-5518,Oregon,6410 SE Milwaukie Ave,2018-08-24T15:45:45.178Z,http://www.13virtuesbrewing.com
+3,micro,Decatur,United States,3752,42.1087669387755,-85.9745474897959,VanMax Brewing Company LLC,2692171720,49045-1008,Michigan,103 N Phelps St,2018-08-24T00:44:36.919Z,http://www.vanmaxbrewing.com
+4,micro,Saint Petersburg,United States,2010,27.7719674285714,-82.644494,Overflow Brewing Company,,33701,Florida,770 1st Ave N,2018-08-24T00:28:05.892Z,http://www.overflowbrewingco.com
+5,micro,Newport,United States,5247,34.789988406904,-76.859456691807,Shortway Brewing Company,2527773065,28570,North Carolina,230 Chatham Street,2018-08-24T15:42:39.325Z,http://www.shortwaybrewing.com
+6,brewpub,Pueblo,United States,1548,38.2696530204082,-104.607864428571,Shamrock Brewing Company,7195429974,81003-3225,Colorado,108 W 3rd St,2018-08-24T00:24:36.379Z,http://www.shamrockbrewing.com
+7,micro,Colorado Springs,United States,1365,,,Fossil Craft Beer Co,7193758298,80904-3161,Colorado,2845 Ore Mill Rd Ste 1,2018-08-11T21:36:36.004Z,http://www.fossilcraftbeer.com
+8,planning,Point Lookout,United States,4634,,,Brewery In Planning - Point Lookout,,11569,New York,,2018-08-11T21:38:31.358Z,
+9,micro,Greenwich,United States,4589,43.08767125,-73.496758,Argyle Brewing Company,5183387405,12834-1209,New York,1 Main St,2018-08-24T15:38:01.772Z,http://www.argylebrewing.com
+10,brewpub,Basalt,United States,1288,,,Capitol Creek Brewery,8704043657,81621-7409,Colorado,371 Market St,2018-08-11T21:36:33.592Z,http://www.capitolcreekbrewery.com
+11,micro,Clayton,United States,5088,,,Deep River Brewing Company,9193683243,27520-1657,North Carolina,700 W Main St Ste 102,2018-08-11T21:38:47.302Z,http://www.deepriverbrewing.com
+12,micro,Stevensville,United States,4180,,,Wildwood Brewing Co,4065296919,59870-6443,Montana,4018 US Highway 93 N,2018-08-11T21:38:14.141Z,http://www.wildwoodbrewing.com
+13,micro,Clearwater,United States,1819,,,Big Storm Brewing Co.,7274970666,33762-4604,Florida,12707 49th St N,2018-08-11T21:36:51.400Z,http://www.bigstormbrewery.com
+14,proprietor,Asheville,United States,5029,,,Biltmore Brewing Company,8004113812,28801-3462,North Carolina,1 N Pack Sq C/O Biltmore Winery Estates,2018-08-11T21:38:45.283Z,http://www.biltmore.com
+15,proprietor,Cambridge,United States,3177,38.5702289,-76.0774552,RAR Brewing,4107257922,21613-1834,Maryland,504 Poplar St,2018-08-24T00:40:44.440Z,http://www.rarbrewing.com
+16,micro,Vineland,United States,4387,39.485955,-75.02304748945,Brinx Jones Brewery,8564056993,08360,New Jersey,613 E Landis Ave,2018-08-24T15:36:33.755Z,http://www.brinxjones.com
+17,micro,Owings,United States,3185,,,Scorpion Brewing,7033072400,20736,Maryland,"929 Skinners Turn Rd, Suite 100",2018-08-11T21:37:37.513Z,http://www.scorpionbrewing.com
+18,micro,Oriental,United States,5204,35.0292106726028,-76.6947225721578,New Village Brewery and Taproom,2522496132,28571-9778,North Carolina,702 Broad St,2018-08-24T15:42:21.071Z,http://www.newvillagebrewery.com
+19,planning,Roslindale,United States,3274,,,Distraction Brewing Company,,02131-3006,Massachusetts,,2018-08-11T21:37:40.800Z,http://www.distractionbrewingco.com
+20,brewpub,Greeley,United States,1271,40.4249546122449,-104.691137122449,Brix Taphouse and Brewery,9703976146,80631-3911,Colorado,813 8th St,2018-08-24T00:22:16.570Z,http://www.brixtaphouseandbrewery.com
+21,brewpub,Cave Junction,United States,5981,42.1622503,-123.6469844,Wild River Brewing and Pizza Co,5414717487,97523-9023,Oregon,249 N Redwood Hwy,2018-08-24T16:05:47.485Z,http://www.wildriverbrewing.com
+22,brewpub,Lake Placid,United States,4748,44.288397,-73.985385,Great Adirondack Brewing Company,5185231629,12946-3300,New York,2442 Main St,2018-08-24T15:39:08.980Z,http://www.adksteakandseafood.com
+23,regional,Boonville,United States,315,,,Anderson Valley Brewing Co,7078952337,95415,California,17700 CA-253,2018-08-11T21:35:54.610Z,http://www.avbc.com
+24,micro,Hayden,United States,1633,,,Yampa Valley Brewing Company,9702768014,81639,Colorado,106 E Jefferson Ave Unit B,2018-08-11T21:36:44.759Z,http://www.yampavalleybrew.com
+25,brewpub,Cannon Beach,United States,5902,45.8885054285714,-123.962023571429,Pelican Brewing Company - Cannon Beach,5039083377,97110-3055,Oregon,1371 S Hemlock St,2018-08-24T16:04:00.191Z,
+26,planning,West Haven,United States,1678,,,Fifth Year Brewery,,06516-7515,Connecticut,,2018-08-11T21:36:46.382Z,
+27,micro,Hastings,United States,3529,,,Glass Creek Winery,2699482752,49058-9791,Michigan,450 N Whitmore Rd,2018-08-11T21:37:49.437Z,http://www.glasscreekwinery.com
+28,contract,Fairfield,United States,475,38.2493581,-122.0399663,Chau Tien Beer Company,7072808044,94533-0244,California,,2018-08-23T23:26:39.653Z,http://www.paleale.com
+29,micro,Prior Lake,United States,3800,44.7144961617042,-93.423970832199,Boathouse Brothers Brewing Co,9522506143,55372-2332,Minnesota,16211 Main Avenue SE,2018-08-24T00:44:57.332Z,
+30,micro,Atco,United States,4370,39.77167345,-74.8997316523657,Atco Brewing LLC,6097072628,08004-2209,New Jersey,302 White Horse Pike,2018-08-24T15:36:28.989Z,http://Www.atcobrewingcompany.com
+31,micro,Somerset,United States,2906,37.0917950355628,-84.6055800081565,Jarfly Brewing Co,6064254962,42501-1627,Kentucky,103 W Mount Vernon St,2018-08-24T00:38:58.009Z,http://www.jarflybrewing.com
+32,proprietor,San Francisco,United States,979,,,San Francisco Brewing Co,4154842337,94109,California,900 N Point St West Plaza,2018-08-11T21:36:19.185Z,http://www.sfbrewingco.com
+33,brewpub,Grand Rapids,United States,3565,,,Hopcat,6164514677,49503-4179,Michigan,25 Ionia Ave SW Ste 100,2018-08-11T21:37:50.847Z,http://www.hopcat.com
+34,contract,Montclair,United States,4414,40.8176874767898,-74.2118183174985,Egan & Sons,9737441413,07042-3852,New Jersey,118 Walnut St,2018-08-24T15:36:45.357Z,http://www.eganandsons.com
+35,brewpub,Napa,United States,1088,38.2971973781702,-122.289764974638,Tarla Mediterranean Bar and Grill,7072555599,94559-2843,California,1480 1st St,2018-08-24T00:03:39.900Z,http://www.tarlagrill.com
+36,micro,Butte,United States,4164,46.0133546634842,-112.539000932836,Quarry Brewing,4067230245,59701-9224,Montana,124 W Broadway St,2018-08-24T00:47:24.696Z,http://www.wedigbeer.com
+37,micro,Lafayette,United States,2935,30.2154904285714,-92.0497892244898,Cajun Brewing,3378069196,70506-4130,Louisiana,206 Rayburn St,2018-08-24T00:39:10.499Z,http://www.cajunbrewing.com
+38,brewpub,Patchogue,United States,4640,40.765794097561,-73.0155605365854,Brick House Brewery and Restaurant,6314472337,11772-3001,New York,67 W Main St,2018-08-24T15:38:17.897Z,http://www.brickhousebrewery.com
+39,brewpub,Santa Cruz,United States,846,36.9666152449717,-121.964793547168,New Bohemia Brewing Co,8313500253,95062-4447,California,1030 41st Ave,2018-08-23T23:59:59.064Z,http://www.nubobrew.com
+40,regional,Columbus,United States,5399,39.9675898,-83.0692897,Columbus Brewing Co,6142243626,43204-3511,Ohio,2555 Harrison Rd,2018-08-24T15:43:39.577Z,http://www.columbusbrewing.com
+41,micro,Hopkins,United States,3881,,,LTD Brewery,9529382415,55343-7624,Minnesota,725 Mainstreet,2018-08-11T21:38:03.499Z,http://www.ltdbrewing.com
+42,brewpub,Naples,United States,2056,,,South Cypress Brewing,2396316397,34110-6118,Florida,895 Wiggins Pass Rd,2018-08-11T21:36:58.769Z,
+43,micro,Hyde Park,United States,4776,41.7667482404549,-73.9300774703213,Hyde Park Brewing Co,8452298277,12538-1934,New York,4076 Albany Post Rd,2018-08-24T15:39:21.549Z,http://www.hydeparkbrewing.com
+44,brewpub,Gilbert,United States,132,33.3209814810127,-111.805438886076,Flying Basset Brewing,4804261373,85233,Arizona,720 W Ray Rd,2018-08-23T23:21:44.805Z,http://www.flyingbassetbrewing.com
+45,micro,Clear Lake,United States,2783,,,Lake Time Brewery,6413572040,50428-1919,Iowa,801 Main Ave Ste C,2018-08-11T21:37:24.167Z,http://www.laketimebrewery.com
+46,micro,Phoenix,United States,160,33.4572674,-112.0649987,"Mother Bunch Brewing, Inc.",6023683580,85006-3793,Arizona,825 N 7th St,2018-08-23T23:22:09.888Z,http://www.motherbunchbrew.com
+47,brewpub,Indianapolis,United States,2584,,,Blind Owl Brewery,3179241000,46220-5228,Indiana,5014 E 62nd St,2018-08-11T21:37:17.855Z,http://www.blindowlbrewery.com
+48,micro,Albany,United States,2180,31.5785829366279,-84.1495930042213,Pretoria Fields Collective,2295181770,31701-2529,Georgia,120 Pine Ave,2018-08-24T00:29:21.824Z,http://www.pretoriafields.com
+49,micro,Portland,United States,5703,45.54849565,-122.613620946786,Alameda Brewing Co,5034609025,97213-1724,Oregon,4765 NE Fremont St,2018-08-24T15:45:46.715Z,http://www.alamedabrewing.com
+50,brewpub,Red Bank,United States,4377,40.3535256530315,-74.0753623780113,Birravino,7328425990,07701-1015,New Jersey,183 Riverside Ave,2018-08-24T15:36:31.454Z,http://www.birravino.com
+51,brewpub,Flagstaff,United States,102,,,Beaver Street Brewery,9287790079,86001-5500,Arizona,11 S Beaver St Ste 1,2018-08-11T21:35:46.628Z,http://www.beaverstreetbrewery.com
+52,micro,Darien,United States,2416,,,Hop Butcher For the World,,60561-6448,Illinois,1000 N Frontage Rd Ste C,2018-08-11T21:37:12.275Z,http://www.hopbutcher.com
+53,proprietor,Jupiter,United States,1952,26.9600304760994,-80.1001138878267,Inlet Brewing Co,5613390004,33469,Florida,4448 Nicole Cir,2018-08-24T00:27:35.074Z,http://www.inletbrewingco.com
+54,micro,Poughkeepsie,United States,4856,41.7172140503185,-73.8859127379777,Plan Bee Farm Brewery,7653078589,12603-1045,New York,115 Underhill Rd,2018-08-24T15:39:54.620Z,http://www.planbeefarmbrewery.com
+55,brewpub,Wilmington,United States,5117,34.2357825,-77.9488688333333,Front Street Brewery,9102511935,28401-4436,North Carolina,9 N Front St,2018-08-24T15:41:45.302Z,http://www.frontstreetbrewery.com
+56,large,Irwindale,United States,817,,,MillerCoors Brewing Co - Irwindale,6269696225,91706-2069,California,15801 1st St,2018-08-11T21:36:13.418Z,http://www.millerbrewing.com
+57,micro,Cambridge,United States,3304,,,Lamplighter Brewing Co.,6179450450,02139-1808,Massachusetts,284 Broadway,2018-08-11T21:37:42.077Z,http://www.lamplighterbrewing.com
+58,contract,Portland,United States,5741,45.51021595,-122.63085305,Brewed By Gnomes,,97214-5024,Oregon,1735 SE 33rd Ave,2018-08-24T15:46:03.800Z,
+59,brewpub,Williamston,United States,3610,,,Michigan Brewing Works,5176557777,48895-9506,Michigan,3435 Dietz Rd,2018-08-11T21:37:52.738Z,
+60,micro,Indianapolis,United States,2606,39.805091,-86.099105,Central State Brewing,3174079855,46218,Indiana,4001 E 26th St,2018-08-24T00:32:42.401Z,http://centralstatebrewing.com
+61,brewpub,Londonderry,United States,4338,,,Pipe Dream Brewing,6034040751,03053-7442,New Hampshire,49 Harvey Rd Unit 4,2018-08-11T21:38:20.540Z,http://www.pipedreambrewingnh.com
+62,brewpub,Livermore,United States,1003,,,Shadow Puppet Brewing Company,9254536498,94551-4847,California,4771 Arroyo Vis Ste B,2018-08-11T21:36:20.615Z,http://www.shadowpuppetbrewing.com
+63,micro,Los Angeles,United States,554,34.1147314285714,-118.244037714286,Eagle Rock Brewery,3232577866,90065-2214,California,3056 Roswell St,2018-08-23T23:27:47.923Z,http://www.eaglerockbrewery.com
+64,brewpub,Cannon Beach,United States,5912,,,Public Coast Brewing,5034360285,97110-2008,Oregon,264 E 3rd Ave,2018-08-11T21:39:17.781Z,http://www.publiccoastbrewing.com
+65,micro,Seminole,United States,2031,,,Rapp Brewing Company,7276927912,33777-1632,Florida,10930 Endeavour Way Ste C,2018-08-11T21:36:58.066Z,http://www.rapp.beer
+66,brewpub,Cedarville,United States,3591,45.9974272430432,-84.3630108872417,Les Cheneaux Distillers,9064841213,49719,Michigan,172 S Meridian St,2018-08-24T00:43:26.510Z,http://www.lescheneauxdistillers.com
+67,planning,Camino,United States,695,38.7382366,-120.6749302,HWY 50 Brewery,,95709,California,,2018-08-23T23:29:43.581Z,http://www.hwy50brewery.com
+68,brewpub,Watkins Glen,United States,4885,42.38063,-76.87362,Roosterfish Brewing Co.,6075359797,14891-1202,New York,301 N Franklin St,2018-08-24T15:40:07.063Z,http://www.roosterfishbrewing.com
+69,brewpub,Clawson,United States,3433,42.533563,-83.141428,Black Lotus Brewing Co,2485771878,48017-2132,Michigan,1 E 14 Mile Rd,2018-08-24T00:42:21.248Z,http://WWW.BLACKLOTUSBEER.COM
+70,micro,Brewer,United States,3042,44.7914659606583,-68.7695709213165,Mason's Brewing Company,2079896300,04412-2207,Maine,15 Hardy St,2018-08-24T00:39:57.575Z,http://www.masonsbrewingcompany.com
+71,planning,Oklahoma City,United States,5682,,,Red Dirt Brewing Co,4058231632,73120-5133,Oklahoma,,2018-08-11T21:39:08.814Z,
+72,micro,Reno,United States,4249,39.5173316,-119.8090037,Brasserie Saint James - The Saint Barrelhouse,7753488888,89501-2307,Nevada,761 S. Virginia St,2018-08-24T15:35:33.946Z,
+73,brewpub,Marietta,United States,2156,33.9371282,-84.5417592,"Johnnie MacCracken's Celtic Firehouse Pub, Inc.",7705907868,30060-1985,Georgia,15 Atlanta Street,2018-08-24T00:29:10.484Z,http://www.johnniemaccrackens.com
+74,brewpub,Cedar,United States,3425,44.8531928678156,-85.7931151093116,Big Cat Brewing Company,2312282282,49621-8580,Michigan,8699 S Good Harbor Trl,2018-08-24T00:42:17.788Z,http://www.bigcatbrewingco.com
+75,planning,Brooklyn,United States,4938,,,Sweet Thursday Beer Co,9176133980,11215-6020,New York,,2018-08-11T21:38:42.210Z,http://www.sweetthursdaybeer.com
+76,brewpub,Medford,United States,5908,42.326944,-122.873661,Portal Brewing Co,5419410240,97501-5902,Oregon,100 E 6th St,2018-08-24T16:04:09.680Z,http://www.portalbrewingco.com
+77,planning,Versailles,United States,5421,,,Endless Pint Brewing,4197338806,45380,Ohio,,2018-08-11T21:38:58.282Z,http://www.endlesspintbrewing.com
+78,micro,Romeoville,United States,2455,41.645057495366,-88.0778806350934,Metal Monkey Brewing LLC,8155243139,60446-1494,Illinois,515 Anderson Dr Ste 900,2018-08-24T00:31:32.786Z,http://www.metalmonkeybrewing.com
+79,planning,Long Beach,United States,309,33.78538945,-118.158049315311,Ambitious Ales,7142962550,90807-2907,California,,2018-08-23T23:24:20.011Z,http://www.ambitiousales.com
+80,brewpub,Reno,United States,4288,39.5138747777778,-119.807260444444,Under the Rose Brewing Company MidTown Location,,89502,Nevada,1041 S Virginia St,2018-08-24T15:35:51.411Z,
+81,micro,Corona,United States,1060,33.8131807,-117.5046237,Stone Church Brewing,3105676582,92883-7388,California,2785 Cabot Dr Ste 160,2018-08-24T00:03:15.295Z,http://www.stonechurchbrewing.com
+82,planning,Waynesville,United States,5381,,,Brewery in Planning - Waynesville,9375813539,45068-7004,Ohio,,2018-08-11T21:38:57.026Z,
+83,brewpub,Warrenville,United States,2510,,,Rock Bottom Brewery - Warrenville,6308361380,60555-3835,Illinois,28256 Diehl Rd,2018-08-11T21:37:15.322Z,http://www.rockbottom.com
+84,micro,Marshall,United States,3486,42.2663882442096,-84.9639765227386,Dark Horse Brewing Co,2697819940,49068-1718,Michigan,511 S Kalamazoo Ave,2018-08-24T00:42:41.488Z,http://www.darkhorsebrewery.com
+85,regional,Hampton,United States,4346,42.94551535,-70.8535415455623,Smuttynose Brewing Co,6034364026,03842-1806,New Hampshire,105 Towle Farm Rd,2018-08-24T15:36:18.631Z,http://www.smuttynose.com
+86,brewpub,Lompoc,United States,1028,34.6419814,-120.4574527,Solvang Brewing Company - Lompoc,9787292485,93436-6022,California,234 N H St,2018-08-24T00:02:45.735Z,http://www.solvangbrewing.com
+87,brewpub,Carson City,United States,4283,39.1269616,-119.7708155,The Fox Brewpub,7758831369,89701-4754,Nevada,310 S Carson St,2018-08-24T15:35:47.985Z,http://www.foxbrewpub.com
+88,micro,Geneva,United States,4735,,,Gael Brewing Co,3152200190,14456-9753,New York,4180 State Route 14,2018-08-11T21:38:34.699Z,http://www.gaelbrewing.com
+89,micro,Manhattan,United States,2848,39.1915231,-96.6083689,Little Apple Brewing Co,7855395500,66502-2838,Kansas,1110 Westloop Pl,2018-08-24T00:38:31.349Z,http://www.littleapplebrewery.com
+90,planning,Eaton,United States,1264,,,Brewery In Planning - Eaton,,80615,Colorado,,2018-08-11T21:36:32.875Z,
+91,brewpub,Skowhegan,United States,2992,44.7199196699464,-69.7296161313716,Bigelow Brewing Company,2073996262,04976-5126,Maine,473 Bigelow Hill Rd,2018-08-24T00:39:36.370Z,http://www.bigelowbrewing.com
+92,micro,Bozeman,United States,4107,45.6845234,-111.0238884,Bozeman Brewing Co,4065859142,59715-3006,Montana,504 N Broadway Ave,2018-08-24T00:47:03.182Z,http://www.bozemanbrewing.com
+93,micro,Highlands,United States,5245,35.054006216911,-83.1955395142336,Satulah Mountain Brewing Co,8284829794,28741,North Carolina,454 Carolina Way,2018-08-24T15:42:38.400Z,http://www.satulahmountainbrewing.com
+94,planning,Cromwell,United States,1667,,,Coles Road Brewing,,06416-1113,Connecticut,,2018-08-11T21:36:46.076Z,http://ColesRoadBrewing.com
+95,brewpub,Aurora,United States,1493,39.6750535,-104.8366181,Peak To Peak Tap & Brew,7204468714,80013-1148,Colorado,16701 E Iliff Ave,2018-08-24T00:24:10.191Z,http://www.peakbrews.com
+96,brewpub,Redmond,United States,5943,44.2805630159867,-121.175239,Smith Rock Brewing,5412797005,97756-1628,Oregon,546 NW 7th St,2018-08-24T16:04:59.558Z,http://www.smithrockbrewing.com
+97,brewpub,,United States,2023,,,Pirate Republic Brewing,,,,"Woodes Rogers Walk, Nassau, Bahamas",2018-07-24T01:33:14.197Z,
+98,micro,Colorado Springs,United States,1307,38.9910371644874,-104.808398853641,Colorado Mountain Brewery,7192717951,80921-4182,Colorado,1110 Interquest Pkwy,2018-08-24T00:22:36.921Z,http://www.cmbrew.com
+99,micro,Colorado Springs,United States,1496,38.889659925238,-104.714604513467,Peaks N Pines Brewing Company,7193586758,80922-2508,Colorado,4005 Tutt Blvd,2018-08-24T00:24:11.517Z,http://www.peaksnpinesbrewery.com
